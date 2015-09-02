@@ -1,0 +1,5 @@
+2015-09-01 20:19:20 -0500
+#<Node:0x007faa839b72d0 @value=0, @_next=#<Node:0x007faa839b7348 @value=1, @_next=#<Node:0x007faa839b7320 @value=2>>>
+#<Node:0x007faa839b7348 @value=1, @_next=#<Node:0x007faa839b7320 @value=2>>
+#<Node:0x007faa839b7320 @value=2>
+#<Node:0x007faa839b7348 @value=1, @_next=#<Node:0x007faa839b7320 @value=2>>
